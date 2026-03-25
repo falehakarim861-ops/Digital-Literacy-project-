@@ -24,12 +24,12 @@ Through this project, I completed different tasks and documented my work to demo
 
 ​Module 1: Digital Literacy Awareness-
 ​Summary: Developed a visual infographic to simplify key digital concepts and safe internet practices.
-​Link: View Infographic Folder
+​Link: [View Infographic Folder](./Infographic)
 
 
 ​Module 2: Professional Digital Presence-
 Summary: Established a professional brand across GitHub and LinkedIn to manage technical projects and network with industry professionals.
-​Links: LinkedIn Profile | Portfolio README
+​Links: [Linkedin](https://www.linkedin.com/in/faleha-karim-521070348)
 
 
 ​Module 3: Platform & Tool Mastery-
