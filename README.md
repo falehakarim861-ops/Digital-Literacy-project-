@@ -49,4 +49,4 @@ Summary: Established a professional brand across GitHub and LinkedIn to manage t
 
 ​Final Project Report-
 The full written documentation covering all 5 tasks and my personal reflections as a Student Digital Ambassador can be found here:
-Report: [Digital Literacy Report](./Digital_Literacy_Report.pdf)
+Report: [Download PDF](https://docs.google.com/document/d/1e1lmJPtYE27WQMsu4pTUv9MDyhXmWBdeCLwA7f86wWg/export?format=pdf)
