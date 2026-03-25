@@ -10,9 +10,13 @@ Through this project, I completed different tasks and documented my work to demo
 ​Student Information-
 
 ​Name: Faleha Karim
+
 ​Registration Number: 25BCE11264
+
 ​Branch: BTech CSE Core
+
 ​University: VIT Bhopal University
+
 ​Batch: 2025–2029
 
 
