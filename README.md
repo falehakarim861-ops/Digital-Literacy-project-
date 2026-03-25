@@ -24,7 +24,7 @@ Through this project, I completed different tasks and documented my work to demo
 
 ​Module 1: Digital Literacy Awareness-
 ​Summary: Developed a visual infographic to simplify key digital concepts and safe internet practices.
-​Link: [View Infographic ](infographic/info.jpeg)
+​Link: [View Infographic](infographic/info.jpeg)
 
 
 ​Module 2: Professional Digital Presence-
