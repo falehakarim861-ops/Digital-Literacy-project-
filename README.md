@@ -20,11 +20,11 @@ Through this project, I completed different tasks and documented my work to demo
 ​Batch: 2025–2029
 
 
-​Module Summaries &  Links-
+​Module Summaries-
 
 ​Module 1: Digital Literacy Awareness-
 ​Summary: Developed a visual infographic to simplify key digital concepts and safe internet practices.
-​Link: [View Infographic](infographic/info.jpeg)
+
 
 
 ​Module 2: Professional Digital Presence-
@@ -34,17 +34,17 @@ Summary: Established a professional brand across GitHub and LinkedIn to manage t
 
 ​Module 3: Platform & Tool Mastery-
 ​Summary: Explored technical platforms by completing coding challenges on HackerRank and conducting data collection via Google Forms.
-​Link: [View Platforms Folder](./Platforms)
+
 
 
 ​Module 4: Professional Communication-
 ​Summary: Refined professional writing skills through academic email drafting and a "Social Media Do’s and Don’ts" etiquette checklist.
-​Link: [View Communication Folder](./Communication)
+​
 
 
 ​Module 5: Cyber Security Awareness-
 ​Summary: Researched modern phishing techniques and created a practical prevention checklist to ensure secure online behavior.
-​Link:[ View Cyber-Security Folder](./Cyber-Security)
+
 
 
 ​Final Project Report-
