@@ -29,12 +29,12 @@ Through this project, I completed different tasks and documented my work to demo
 
 ​Module 2: Professional Digital Presence-
 Summary: Established a professional brand across GitHub and LinkedIn to manage technical projects and network with industry professionals.
-​Links: [Linkedin](https://www.linkedin.com/in/faleha-karim-521070348)
+​Link: [Linkedin](https://www.linkedin.com/in/faleha-karim-521070348)
 
 
 ​Module 3: Platform & Tool Mastery-
 ​Summary: Explored technical platforms by completing coding challenges on HackerRank and conducting data collection via Google Forms.
-
+Link:[Fill the form](https://docs.google.com/forms/d/e/1FAIpQLSdJnM34fEFiCtrQ97xWm41aMLWHw_tXYK4S13Q3IR-ORy9jvA/viewform?usp=publish-editor)
 
 
 ​Module 4: Professional Communication-
